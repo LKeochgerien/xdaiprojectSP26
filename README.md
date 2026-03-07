@@ -21,4 +21,10 @@ The learning need arises from experiences such as the Hengshui model, which emph
 *Lourdes:*
 * Created a Slack channel with specialized tabs such as Agenda, Project Overview, and Project Tracker. This one-stop shop allows for easier access. 
 * Created a Google Drive Folder to house all materials related to the project. 
-* Brainstormed and collaborated on ideas with team members during weekly Zoom meeting. 
+* Brainstormed and collaborated on ideas with team members during weekly Zoom meeting.
+
+* Xiuwen:*
+Actively participated in all team meetings and maintained consistent communication with group members via our dedicated Slack channel to ensure alignment on project goals.
+Contributed to the brainstorming process by collaborating with team members to generate and refine various project ideas during weekly discussions.
+Collaborated with the team by contributing to and refining content within our shared Google Document, ensuring all ideas and progress were accurately captured. 
+
